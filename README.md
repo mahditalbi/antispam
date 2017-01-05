@@ -20,7 +20,7 @@ cd $HOME
 
 git clone https://github.com/mahditalbi/antispam
 
-cd antispam2
+cd antispam
 
 chmod +x launch.sh
 
@@ -51,7 +51,9 @@ cd antispam2
 
 
 
+@lordking1995
 
+telegram.me/lordking1995
 
 
 
