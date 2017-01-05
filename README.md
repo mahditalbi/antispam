@@ -18,7 +18,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/mamadkiller/antispam2
+git clone https://github.com/mahditalbi/antispam
 
 cd antispam2
 
