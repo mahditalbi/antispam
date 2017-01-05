@@ -55,7 +55,3 @@ cd antispam2
 
 
 
-By @mamadkiller
-
-https://instagram.com/mamadkiller
-https://telegram.com/mamadkiller
